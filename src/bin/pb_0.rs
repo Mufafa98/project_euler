@@ -1,4 +1,4 @@
-pub fn pb_0() {
+fn main() {
     let n = 442_000;
     let mut sum: u128 = 0;
     for i in 0..n {
